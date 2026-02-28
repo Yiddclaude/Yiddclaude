@@ -1,4 +1,3 @@
-## live on pump ca - 7fQZqFRMAUG6x6oFoTT3uRsCajTm5p8rcEatTKV7pump
 
 <!--
 **Yiddclaude/Yiddclaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
